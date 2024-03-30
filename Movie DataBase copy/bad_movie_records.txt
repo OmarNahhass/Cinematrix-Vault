@@ -1,0 +1,26 @@
+movies1990.csv:16:Excess fields:1990,Total Recall,113,Action,R,7.5,Paul Verhoeven,Ronny Cox,Rachel Ticotin,Marshall Bell,actor 4?
+movies1991.csv:10:Invalid year:2991,Hudson Hawk,100,Action,R,5.7,Michael Lehmann,Bruce Willis,James Coburn,Richard E. Grant
+movies1991.csv:16:Invalid rating:1991,Bill & Ted's Bogus Journey,93,Adventure,PJ,6.2,Peter Hewitt,Keanu Reeves,George Carlin,Alex Winter
+movies1991.csv:26:Invalid duration:1991,Hook,333,Adventure,PG,6.7,Steven Spielberg,Robin Williams,Julia Roberts,Bob Hoskins
+movies1992.csv:21:Missing fields:l992,Unforgiven,131,Drama,R,8.3,Clint Eastwood,Clint Eastwood,Morgan Freeman,Frances Fisher
+movies1992.csv:27:Invalid genre:1992,Batman Returns,126,Aktion,PG-13,7,Tim Burton,Michael Gough,Vincent Schiavelli,Andrew Bryniarski
+movies1992.csv:29:Invalid score:1992,Aladdin,90,Adventure,G,80,Ron Clements,Robin Williams,Frank Welker,Scott Weinger
+movies1993.csv:7:Invalid duration:1993,"Blood In, Blood Out",330,Crime,R,8,Taylor Hackford,Delroy Lindo,Jesse Borrego,Raymond Cruz
+movies1993.csv:8:Invalid rating:1993,Dazed and Confused,102,Comedy,RRR,7.7,Richard Linklater,Milla Jovovich,Adam Goldberg,Cole Hauser
+movies1994.csv:1:Missing name(s):1994,There Goes My Baby,99,Comedy,R,6.4,Floyd Mutrux,Ricky Schroder,,Seymour Cassel
+movies1994.csv:16:Missing fields:1994,Wyatt Earp,212,Adventure,PG-13,,Lawrence Kasdan,Dennis Quaid,Catherine O'Hara,Isabella Rossellini
+movies1994.csv:20:Missing fields:1994,Richie Rich,,Comedy,PG,5.2,Donald Petrie,Macaulay Culkin,John Larroquette,Jonathan Hyde
+movies1996.csv:9:Missing fields:1996,Bound,109,Krime,R,,Lana Wachowski,Christopher Meloni,Kevin Michael Richardson,Peter Spellos
+movies1996.csv:11:Missing fields:l996,Bogus,110,Comedy,,5.3,Norman Jewison,Haley Joel Osment,Nancy Travis,Andrea Martin
+movies1996.csv:28:Missing fields:-1996,The Fan,116,Action,R,,Tony Scott,Robert De Niro,Kurt Fuller,Ellen Barkin
+movies1996.csv:45:Invalid duration:1996,Striptease,1170,Comedy,R,4.3,Andrew Bergman,Demi Moore,Rumer Willis,Paul Guilfoyle
+movies1996.csv:67:Invalid year:2996,Broken Arrow,900,Action,R,60,John Woo,Delroy Lindo,Samantha Mathis,Bob Gunton
+movies1997.csv:27:Missing name(s):1997,Chasing Amy,113,Comedy,R,7.3,Kevin Smith,Matt Damon,Ethan Suplee,
+movies1999.csv:13:Missing name(s):1999,Crazy in Alabama,111,Komedy,PG-13,6.3,Antonio Banderas,Meat Loaf,,Noah Emmerich
+movies1999.csv:16:Missing fields:l999,A Dog of Flanders,,,PG,6.3,Kevin Brodie,Bruce McGill,Cheryl Ladd,Jack Warden
+movies1999.csv:30:Invalid year:2999,Foolish,384,Comedy,R,4.3,Dave Meyers,,Clifton Powell,Marla Gibbs
+movies1999.csv:52:Invalid genre:1999,Snow Falling on Cedars,127,Druma,PG-13,6.8,Scott Hicks,Rick Yune,Reeve Carney,Daniel von Bargen
+movies1999.csv:80:Invalid rating:1999,Random Hearts,133,Drama,RRR,5.1,Sydney Pollack,Harrison Ford,Kristin Scott Thomas,Bill Cobbs
+movies1999.csv:103:Invalid year:-1999,The Bone Collector,118,Crime,,6.7,Phillip Noyce,Denzel Washington,Angelina Jolie Pitt,Leland Orser
+movies1999.csv:106:Invalid genre:1999,The Thomas Crown Affair,113,Krime,R,6.8,John McTiernan,Mark Margolis,Faye Dunaway,Denis Leary
+movies1999.csv:107:Missing title:1999,,102,Adventure,PG,7.3,Dean Parisot,Alan Rickman,Enrico Colantoni,Robin Sachs
