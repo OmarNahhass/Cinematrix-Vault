@@ -22,4 +22,5 @@ Cinematrix Vault is a robust platform for movie data management and analysis, in
 ## Prerequisites
 - **Java JDK 8 or higher**: Ensure Java Development Kit (JDK) 8 or a more recent version is installed and configured on your system to compile and run
 
-- This is a school assignment - credit to Concordia University for assigning this and enabling me to learn about implement my knowledge of Java
+## Credit
+- This is a school assignment - credit to Concordia University for assigning this and enabling me to learn and test my knowledge of Java
